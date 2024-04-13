@@ -4,8 +4,7 @@ Hi 👋 My name is Mumin
 I sometimes make websites.
 --------------------------
 
-*   🌍  I'm from The North Pole
-*   🚀  I'm currently working on [News website - Swedish Police API](http://news.ö.icu)
+*   🚀  I'm currently working on a [News website](http://news.ö.icu) using the Swedish police official API.
 
 ### Skills
 <p align="left">
